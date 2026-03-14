@@ -194,21 +194,6 @@ Execution flow:
 4. Access the application via browser
 
 
-------------------------------------------------------------
-Dissertation Context
-------------------------------------------------------------
-This repository provides the full implementation artefact supporting the
-dissertation submitted for the BSc (Hons) Computing programme at Arden
-University.
-
-The artefact demonstrates the integration of:
-- data engineering
-- database design
-- sustainability analytics
-- full-stack web development
-
-to support sustainable decision-making in meal planning.
-
 
 ------------------------------------------------------------
 Verification Notes
